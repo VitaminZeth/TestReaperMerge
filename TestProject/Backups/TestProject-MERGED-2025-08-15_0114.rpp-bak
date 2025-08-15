@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.27/win64" 1755241571
+<REAPER_PROJECT 0.1 "7.27/win64" 1755242084
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,9 +18,9 @@
   TIMEMODE 5 5 -1 30 0 -1 -1
   VIDEO_CONFIG 0 0 512
   PANMODE 5
-  CURSOR 173.87356217444994
+  CURSOR 31.95145409053657
   ZOOM 4.27846650148671 0 0
-  VZOOMEX 27 0
+  VZOOMEX 27 53
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 23.976024 100 40 1000 300 0 0 0 0 0
@@ -102,6 +102,7 @@
   MARKER 1 170.859 "" 9
   MARKER 2 31.95145409053657 LINE-01 1 0 1 R {AA2E967B-57CF-4B92-8654-5F1548B6AD7F} 0
   MARKER 2 49.93303781060501 "" 1
+  MARKER 0 35.30879166667077 ▶ 0 22121631 1 R {92CE2EDD-B89E-4473-AD08-DE40211F82EE} 0
   MARKER 3 49.92803781060502 LINE-02 1 0 1 R {B2327BC0-A1EB-4F28-BFB2-477931390629} 0
   MARKER 3 67.90962153067346 "" 1
   MARKER 4 75.94258653401891 LINE-03 1 0 1 R {849124EA-C6CE-4DDE-9E65-BE2CCBDF6792} 0
@@ -140,6 +141,24 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: RX 11 Connect (iZotope)" "RX 11 Connect.vst3" 0 "" 1291197163{565354725A4C31525820313120436F6E} ""
+        6xr2TO5e7f4GAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAABgAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAA
+        EAAAAAAAAAAgAAAAAAAAACMBAAABAAAA//8QAA==
+        EwEAAAEAAABzU0MAAQAAAAcBAAB5BgAAeJzVlD0LwjAQhvf+iiOzg66OfiAOilDtfkrUSppIeoKl9L9rSovWJhpRB6em713ee+4SkgcAwIZKEj8ThITEGfQhN7KJLLNj
+        KbBRvKFYSdQZ69TBCMWpkW7EBWpM0gf1lVXLsLgF6mX5LcodbBQuvgJrfMaCJ1zSx8gN3YQmQq1RWGN+5i9LVAlVBzDH5Fleo2hIOpY7a8HHsnUj9tTCYVHtgkF2xNQy
+        XDvWQCnhBbVFkfI3icqrCRHX6XXcvkSrqSQvoq6DxiK3tDYyC/cnIuE8zz+6PnUnf3FaLpqqifar81Mar7sTOP5sD+cMD0rbhuqAviH27l1i+ZFLUAQXo5ZJJAAAAAAA
+        AAAA
+        AAAQAAAA
+      >
+      FLOATPOS 80 212 486 342
+      FXID {9A08EF6A-AE09-4A97-8AAD-E047AD15A3E1}
+      WAK 0 0
+    >
     <ITEM
       POSITION 0
       SNAPOFFS 0
@@ -159,7 +178,7 @@
       CHANMODE 0
       GUID {93EA1C5F-E305-4B62-AF34-0C492DAEB326}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
   >
@@ -188,6 +207,11 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
     <ITEM
       POSITION 6.07694368786179
       SNAPOFFS 0
@@ -207,7 +231,7 @@
       CHANMODE 0
       GUID {F0C96E17-7E99-49E8-9C93-923A37FD81F8}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -229,7 +253,7 @@
       CHANMODE 0
       GUID {9437A6C2-4E6F-4F53-87B1-85AB045C4737}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -247,12 +271,12 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 66
     TRACKHEIGHT 106 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
+    NCHAN 6
     FX 1
     TRACKID {C48CBA74-B039-4A26-8E41-ECD9EF9E65D7}
     PERF 0
@@ -262,6 +286,19 @@
       SHOW 0
       LASTSEL 0
       DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: RX 11 Connect (iZotope)" "RX 11 Connect.vst3" 0 "" 1291197163{565354725A4C31525820313120436F6E} ""
+        6xr2TO5e7f4GAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAABgAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAA
+        EAAAAAAAAAAgAAAAAAAAACMBAAABAAAA//8QAA==
+        EwEAAAEAAABzU0MAAQAAAAcBAAB5BgAAeJzVlD0LwjAQhvf+iiOzg66OfiAOilDtfkrUSppIeoKl9L9rSovWJhpRB6em713ee+4SkgcAwIZKEj8ThITEGfQhN7KJLLNj
+        KbBRvKFYSdQZ69TBCMWpkW7EBWpM0gf1lVXLsLgF6mX5LcodbBQuvgJrfMaCJ1zSx8gN3YQmQq1RWGN+5i9LVAlVBzDH5Fleo2hIOpY7a8HHsnUj9tTCYVHtgkF2xNQy
+        XDvWQCnhBbVFkfI3icqrCRHX6XXcvkSrqSQvoq6DxiK3tDYyC/cnIuE8zz+6PnUnf3FaLpqqifar81Mar7sTOP5sD+cMD0rbhuqAviH27l1i+ZFLUAQXo5ZJJAAAAAAA
+        AAAA
+        AAAQAAAA
+      >
+      FLOATPOS 596 32 486 342
+      FXID {3D5247C2-8F6E-4746-A5D8-EB30F71154C0}
+      WAK 0 0
       BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
@@ -293,7 +330,7 @@
       CHANMODE 0
       GUID {7C9C559B-B7DC-452F-9CB4-C1E366C6C328}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -305,7 +342,7 @@
       FADEIN 0 2.17292200292279 0 0 0 0 0
       FADEOUT 0 2.71985992787358 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {47F85309-065A-44EE-98D0-0C13D8E247D7}
       IID 1
       NAME SampleAudio_0.7mb.mp3
@@ -315,7 +352,7 @@
       CHANMODE 0
       GUID {61271280-C360-4CED-9947-759A66928534}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -337,7 +374,7 @@
       CHANMODE 0
       GUID {F3E39F95-150F-4B6A-AABF-3A452F374D9C}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -359,7 +396,7 @@
       CHANMODE 0
       GUID {87D4B539-1375-42CB-88E6-BABBD35893B1}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -407,7 +444,7 @@
       CHANMODE 0
       GUID {1B0A95F3-69DC-443A-9EA0-C8D0EBA2FA86}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -471,7 +508,7 @@
       CHANMODE 0
       GUID {82B5F55B-865B-4CC1-B47D-2F5551C521A5}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -493,7 +530,7 @@
       CHANMODE 0
       GUID {188A78B5-3FB0-4EB6-80DE-192430FB673D}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -511,7 +548,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 66
     TRACKHEIGHT 105 0 0 0 0 0 0
@@ -531,7 +568,7 @@
       FADEIN 3 14.72490201293111 0 3 0 -1 -1
       FADEOUT 3 13.76946885924663 0 3 0 1 1
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {3BE6A576-3AB5-4213-8095-4F408A7A7D43}
       IID 1
       NAME SampleAudio_0.7mb.mp3
@@ -541,7 +578,7 @@
       CHANMODE 0
       GUID {94F10EB5-534C-42E4-BDAD-6B808B73A405}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -605,7 +642,7 @@
       CHANMODE 0
       GUID {1C09EE45-A235-4315-AD70-999F655E7DD2}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -627,7 +664,7 @@
       CHANMODE 0
       GUID {349F32E8-D470-48B7-AAFA-AD5D1ECE01E4}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
