@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.27/win64" 1755239517
+<REAPER_PROJECT 0.1 "7.27/win64" 1755239508
   <NOTES 0 2
   >
   RIPPLE 0
@@ -98,7 +98,7 @@
     DEFSHAPE 1 -1 -1
   >
   MARKER 1 0 START 0 0 1 R {EEEECC4D-82CA-4F28-B78A-1E7CF400A52E} 0
-  MARKER 1 0 EP-01 9 16842496 1 R {92539371-3AA0-49BD-8F72-35090C561AFD} 0
+  MARKER 1 0 EP-01 9 0 1 R {92539371-3AA0-49BD-8F72-35090C561AFD} 0
   MARKER 1 170.859 "" 9
   MARKER 2 171.51911007439395 END 0 0 1 R {1F4A6A8E-E241-47BD-8A38-3DBD73A9DC00} 0
   <PROJBAY
@@ -147,7 +147,7 @@
       CHANMODE 0
       GUID {93EA1C5F-E305-4B62-AF34-0C492DAEB326}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
   >
@@ -195,7 +195,7 @@
       CHANMODE 0
       GUID {7C9C559B-B7DC-452F-9CB4-C1E366C6C328}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -217,7 +217,7 @@
       CHANMODE 0
       GUID {0A93A490-74A4-4D77-89FB-5D5C70B5AC18}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\GitHub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
