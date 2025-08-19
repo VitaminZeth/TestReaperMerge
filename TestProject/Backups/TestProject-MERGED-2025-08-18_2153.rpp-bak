@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.27/win64" 1755568527
+<REAPER_PROJECT 0.1 "7.27/win64" 1755568405
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,9 +18,9 @@
   TIMEMODE 5 5 -1 30 0 -1 -1
   VIDEO_CONFIG 0 0 512
   PANMODE 5
-  CURSOR 337.73783188389564
-  ZOOM 4.27846650148672 416 0
-  VZOOMEX 9.25755024 0
+  CURSOR 480.47659163732499
+  ZOOM 16.79374217275224 7655 0
+  VZOOMEX 9.41627502 52
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 23.976024 100 40 1000 300 0 0 0 0 0
@@ -134,7 +134,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 66
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -182,7 +182,7 @@
       CHANMODE 0
       GUID {1EBAD374-134B-4032-8DDB-37E6858BCFF1}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -204,7 +204,7 @@
       CHANMODE 0
       GUID {96DAE79B-E426-43B3-83C4-025EF346390D}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -226,7 +226,7 @@
       CHANMODE 0
       GUID {90D389F6-35F1-491C-A062-E0A5553D5C71}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
   >
@@ -292,7 +292,7 @@
       CHANMODE 0
       GUID {D4DF3A5E-0C1D-4378-BF79-25497614571A}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
   >
@@ -345,7 +345,7 @@
       CHANMODE 0
       GUID {B0860C7D-75D6-4B28-B447-0FAB0DED7437}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -367,7 +367,7 @@
       CHANMODE 0
       GUID {718EE895-DC23-4C05-8572-D2F3F0E32678}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -389,29 +389,29 @@
       CHANMODE 0
       GUID {460BA88F-721B-495C-900B-EC0D1C477FCE}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
-      POSITION 370.46287314337155
+      POSITION 364.42145753134605
       SNAPOFFS 0
-      LENGTH 9.97645564221176
+      LENGTH 14.23149156045616
       LOOP 0
       ALLTAKES 0
       FADEIN 0 0 0 3 0 0 0
-      FADEOUT 3 3.28481206374931 0 3 0 1 1
+      FADEOUT 3 7.26461075470985 0 3 0 1 1
       MUTE 0 0
       SEL 0
       IGUID {C9D2C3E1-E67D-42D0-A5B5-B6B2C8C33906}
       IID 29
       NAME SampleAudio_0.7mb.mp3
       VOLPAN 16 0 1 -1
-      SOFFS 30.92984233682466
+      SOFFS 26.67480641858025
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {F237C290-E9EF-4524-A178-4F80DC033357}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -433,11 +433,11 @@
       CHANMODE 0
       GUID {57398395-E69B-44BE-AFFF-5316E3950556}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
-      POSITION 439.15167472118867
+      POSITION 441.89079025165341
       SNAPOFFS 0
       LENGTH 18.1019808969819
       LOOP 0
@@ -455,7 +455,7 @@
       CHANMODE 0
       GUID {D86F4224-0DF1-4C5E-9D2F-C4D9C8A5BEE6}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -532,7 +532,7 @@
       CHANMODE 0
       GUID {D3A2D2D7-6754-4797-9CD6-5ACEFA7E0683}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -554,7 +554,7 @@
       CHANMODE 0
       GUID {E52559C9-1ACB-48CB-8FA4-6650B37755D2}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -576,7 +576,7 @@
       CHANMODE 0
       GUID {0E592401-056D-429C-8533-FB960ED19EF9}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -598,29 +598,29 @@
       CHANMODE 0
       GUID {CF43B1E2-CFA0-4A5B-819D-733F843F87E6}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
-      POSITION 334.23190283319775
+      POSITION 337.68530811442213
       SNAPOFFS 0
-      LENGTH 21.01947227007196
+      LENGTH 17.56606698884758
       LOOP 0
       ALLTAKES 0
       FADEIN 0 2.8047432405583 0 0 0 0 0
       FADEOUT 0 2.77930521528019 0 0 0 0 0
-      MUTE 0 0
+      MUTE 1 0
       SEL 0
       IGUID {3981CB08-5663-433B-A286-D80E0370AAFF}
       IID 31
       NAME SampleAudio_0.7mb.mp3
       VOLPAN 16 0 1 -1
-      SOFFS 0
+      SOFFS 3.45340528122438
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {193B295C-5DDA-43DD-816C-2971B614F6B8}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -642,13 +642,13 @@
       CHANMODE 0
       GUID {A3EC9864-DE69-49B2-827A-F343E8B0BFE0}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
-      POSITION 391.81261283598968
+      POSITION 388.62588987825552
       SNAPOFFS 0
-      LENGTH 10.32891152788153
+      LENGTH 13.5156344856157
       LOOP 0
       ALLTAKES 0
       FADEIN 0 0 0 0 0 0 0
@@ -659,12 +659,12 @@
       IID 32
       NAME SampleAudio_0.7mb.mp3
       VOLPAN 16 0 1 -1
-      SOFFS 34.97348076235225
+      SOFFS 31.78675780461809
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {D18102E0-68CC-4EE7-BB5D-87E8A137BA6B}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -686,13 +686,13 @@
       CHANMODE 0
       GUID {6262BC00-92A9-464E-995E-AD5021924D01}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
       POSITION 456.06627552419297
       SNAPOFFS 0
-      LENGTH 7.02288709366258
+      LENGTH 17.98158372006844
       LOOP 0
       ALLTAKES 0
       FADEIN 0 1.10687268681039 0 0 0 0 0
@@ -708,7 +708,7 @@
       CHANMODE 0
       GUID {996406F4-A553-4304-A4F8-E2310D36D287}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -756,7 +756,7 @@
       CHANMODE 0
       GUID {8E61798D-4FBC-43A4-8275-4946AE7BFD1A}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -778,7 +778,7 @@
       CHANMODE 0
       GUID {7CBFE4B2-4201-417B-9594-0EF7A3076B96}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -800,7 +800,7 @@
       CHANMODE 0
       GUID {667550F0-F864-4072-8589-8ACFD8D1097B}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -864,7 +864,7 @@
       CHANMODE 0
       GUID {37F39158-3961-415D-B6F0-BC43FB011B08}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -886,11 +886,11 @@
       CHANMODE 0
       GUID {F9717B9C-E6DF-4827-BF30-A33561E57CC9}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
-      POSITION 362.81020095118464
+      POSITION 375.55655762258164
       SNAPOFFS 0
       LENGTH 7.65267219218691
       LOOP 0
@@ -908,7 +908,7 @@
       CHANMODE 0
       GUID {6F9C8615-904D-4D0C-A9F2-0C588520FC0E}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -930,7 +930,7 @@
       CHANMODE 0
       GUID {B079B4A0-DEB1-45B1-B5F6-3D13BCC7B9BF}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -952,7 +952,7 @@
       CHANMODE 0
       GUID {F271E262-D4BC-40E0-A696-9A0E168FF9CC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -970,7 +970,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 66
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -1000,13 +1000,13 @@
       CHANMODE 0
       GUID {FBB80447-7A67-42A6-A3E2-9AB29A6303AC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
-      POSITION 462.49370271992848
+      POSITION 454.15726414894999
       SNAPOFFS 0
-      LENGTH 10.29243278774584
+      LENGTH 18.62887135872433
       LOOP 0
       ALLTAKES 0
       FADEIN 3 14.72490201293111 0 3 0 -1 -1
@@ -1017,24 +1017,24 @@
       IID 38
       NAME SampleAudio_0.7mb.mp3
       VOLPAN 16 0 1 -1
-      SOFFS 16.25777306061553
+      SOFFS 7.92133448963704
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {5820FF46-FD5E-471D-89F8-C2F6153EF966}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
       POSITION 473.09288890302975
       SNAPOFFS 0
-      LENGTH 11.61146800957715
+      LENGTH 18.74718644188805
       LOOP 0
       ALLTAKES 0
       FADEIN 0 0 0 3 0 0 0
-      FADEOUT 3 2.79866152025704 0 3 0 1 1
+      FADEOUT 3 13.76946885924663 0 3 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {28384C4E-0679-4B37-8145-1AFF495B989B}
       IID 38
       NAME SampleAudio_0.7mb.mp3
@@ -1044,7 +1044,7 @@
       CHANMODE 0
       GUID {33F6B3BB-FF82-412E-9849-82B238E551E0}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -1108,7 +1108,7 @@
       CHANMODE 0
       GUID {CC9EF032-C88E-462D-B0D8-5449409D13EC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1130,7 +1130,7 @@
       CHANMODE 0
       GUID {E203F8F6-ABA8-42A2-89B1-6631D1475AB3}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1152,7 +1152,7 @@
       CHANMODE 0
       GUID {EB02BCAE-37F5-4047-B7CA-394C21B64E5F}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1174,7 +1174,7 @@
       CHANMODE 0
       GUID {4A1803F0-F3B1-4A26-B10D-F1AA1AB444EB}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "W:\Fork\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
