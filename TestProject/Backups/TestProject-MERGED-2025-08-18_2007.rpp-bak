@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.40/win64" 1755569368
+<REAPER_PROJECT 0.1 "7.40/win64" 1755569256
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,9 +18,9 @@
   TIMEMODE 5 5 -1 30 0 -1 -1
   VIDEO_CONFIG 0 0 512
   PANMODE 5
-  CURSOR 347.43013928399887
-  ZOOM 2.15952613 309 0
-  VZOOMEX 20.91707039 1132
+  CURSOR 403.23131275818474
+  ZOOM 8.4765242476339 2877 0
+  VZOOMEX 20.91707039 1123
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 23.976024 100 40 1000 300 0 0 0 0 0
@@ -69,8 +69,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4 0
   PLAYRATE 1 1 0.25 4
-  SELECTION 347.43013928399887 370.42213278262568
-  SELECTION2 347.43013928399887 370.42213278262568
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 1
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16777420
@@ -114,8 +114,8 @@
   MARKER 7 139.81095641106367 LINE-06 1 0 1 R {B74CF80A-1AC5-43DA-A932-0A420E52B513} 0
   MARKER 7 157.78754013114775 "" 1
   MARKER 2 159.40290750506355 END 0 0 1 R {1F4A6A8E-E241-47BD-8A38-3DBD73A9DC00} 0
-  MARKER 8 167.11595141659888 EP-02 1 16842496 1 R {BEEDC4C1-BBDD-48DF-A809-16BA30187DE1} 0
-  MARKER 8 334.23190283319775 "" 1
+  MARKER 8 167.11595141659888 EP-02 9 16842496 1 R {BEEDC4C1-BBDD-48DF-A809-16BA30187DE1} 0
+  MARKER 8 334.23190283319775 "" 9
   MARKER 9 334.23190283319775 EP-03 1 0 1 R {FC008883-FBD0-46DC-A33E-391192C9B9F0} 0
   MARKER 9 501.34785424979663 "" 1
   <PROJBAY
@@ -182,7 +182,7 @@
       CHANMODE 0
       GUID {1EBAD374-134B-4032-8DDB-37E6858BCFF1}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -204,7 +204,7 @@
       CHANMODE 0
       GUID {96DAE79B-E426-43B3-83C4-025EF346390D}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -226,7 +226,7 @@
       CHANMODE 0
       GUID {90D389F6-35F1-491C-A062-E0A5553D5C71}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
   >
@@ -292,7 +292,7 @@
       CHANMODE 0
       GUID {D4DF3A5E-0C1D-4378-BF79-25497614571A}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
   >
@@ -345,7 +345,7 @@
       CHANMODE 0
       GUID {B0860C7D-75D6-4B28-B447-0FAB0DED7437}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -367,7 +367,7 @@
       CHANMODE 0
       GUID {718EE895-DC23-4C05-8572-D2F3F0E32678}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -389,7 +389,7 @@
       CHANMODE 0
       GUID {460BA88F-721B-495C-900B-EC0D1C477FCE}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -411,7 +411,7 @@
       CHANMODE 0
       GUID {F237C290-E9EF-4524-A178-4F80DC033357}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -433,7 +433,7 @@
       CHANMODE 0
       GUID {57398395-E69B-44BE-AFFF-5316E3950556}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -455,7 +455,7 @@
       CHANMODE 0
       GUID {D86F4224-0DF1-4C5E-9D2F-C4D9C8A5BEE6}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -532,7 +532,7 @@
       CHANMODE 0
       GUID {D3A2D2D7-6754-4797-9CD6-5ACEFA7E0683}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -554,7 +554,7 @@
       CHANMODE 0
       GUID {E52559C9-1ACB-48CB-8FA4-6650B37755D2}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -576,7 +576,7 @@
       CHANMODE 0
       GUID {0E592401-056D-429C-8533-FB960ED19EF9}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -598,7 +598,7 @@
       CHANMODE 0
       GUID {CF43B1E2-CFA0-4A5B-819D-733F843F87E6}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -620,7 +620,7 @@
       CHANMODE 0
       GUID {193B295C-5DDA-43DD-816C-2971B614F6B8}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -642,7 +642,7 @@
       CHANMODE 0
       GUID {A3EC9864-DE69-49B2-827A-F343E8B0BFE0}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -664,7 +664,7 @@
       CHANMODE 0
       GUID {D18102E0-68CC-4EE7-BB5D-87E8A137BA6B}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -686,7 +686,7 @@
       CHANMODE 0
       GUID {6262BC00-92A9-464E-995E-AD5021924D01}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -708,7 +708,7 @@
       CHANMODE 0
       GUID {996406F4-A553-4304-A4F8-E2310D36D287}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -756,7 +756,7 @@
       CHANMODE 0
       GUID {8E61798D-4FBC-43A4-8275-4946AE7BFD1A}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -778,7 +778,7 @@
       CHANMODE 0
       GUID {7CBFE4B2-4201-417B-9594-0EF7A3076B96}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -800,7 +800,7 @@
       CHANMODE 0
       GUID {667550F0-F864-4072-8589-8ACFD8D1097B}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -818,7 +818,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 66
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -864,7 +864,7 @@
       CHANMODE 0
       GUID {37F39158-3961-415D-B6F0-BC43FB011B08}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -886,7 +886,7 @@
       CHANMODE 0
       GUID {F9717B9C-E6DF-4827-BF30-A33561E57CC9}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -896,7 +896,7 @@
       LOOP 0
       ALLTAKES 0
       FADEIN 0 2.19344074310344 0 0 0 0 0
-      FADEOUT 0 2.15153363750471 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {B23FD525-0FE2-42C6-B615-1B5C590B778C}
@@ -908,7 +908,7 @@
       CHANMODE 0
       GUID {6F9C8615-904D-4D0C-A9F2-0C588520FC0E}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -920,7 +920,7 @@
       FADEIN 0 2.5463474430822 0 0 0 0 0
       FADEOUT 0 1.29696956741377 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {6A782E8D-48CB-491A-B902-AEC1219E88B2}
       IID 36
       NAME SampleAudio_0.7mb.mp3
@@ -930,7 +930,7 @@
       CHANMODE 0
       GUID {B079B4A0-DEB1-45B1-B5F6-3D13BCC7B9BF}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -952,7 +952,7 @@
       CHANMODE 0
       GUID {F271E262-D4BC-40E0-A696-9A0E168FF9CC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -1000,7 +1000,7 @@
       CHANMODE 0
       GUID {FBB80447-7A67-42A6-A3E2-9AB29A6303AC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1009,8 +1009,8 @@
       LENGTH 10.29243278774584
       LOOP 0
       ALLTAKES 0
-      FADEIN 3 9.25621815750577 0 3 0 -1 -1
-      FADEOUT 0 1.03621463024007 0 3 0 0 0
+      FADEIN 3 10.29243278774584 0 3 0 -1 -1
+      FADEOUT 0 0 0 3 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {85877D45-BDC9-4591-A2E6-08E80FB26D62}
@@ -1022,16 +1022,16 @@
       CHANMODE 0
       GUID {5820FF46-FD5E-471D-89F8-C2F6153EF966}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
       POSITION 473.09288890302975
-      SNAPOFFS 1.29770170870103
+      SNAPOFFS 0
       LENGTH 11.61146800957715
       LOOP 0
       ALLTAKES 0
-      FADEIN 0 0.82102243714507 0 3 0 0 0
+      FADEIN 0 0 0 3 0 0 0
       FADEOUT 3 2.79866152025704 0 3 0 1 1
       MUTE 0 0
       SEL 0
@@ -1044,7 +1044,7 @@
       CHANMODE 0
       GUID {33F6B3BB-FF82-412E-9849-82B238E551E0}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -1108,7 +1108,7 @@
       CHANMODE 0
       GUID {CC9EF032-C88E-462D-B0D8-5449409D13EC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1130,7 +1130,7 @@
       CHANMODE 0
       GUID {E203F8F6-ABA8-42A2-89B1-6631D1475AB3}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1152,7 +1152,7 @@
       CHANMODE 0
       GUID {EB02BCAE-37F5-4047-B7CA-394C21B64E5F}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1162,7 +1162,7 @@
       LOOP 0
       ALLTAKES 0
       FADEIN 1.1 1.78914518923307 0 0 0 0 0
-      FADEOUT 0 1.51881592984388 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {AD11C024-E89D-4EFE-92BB-0F57F4139B90}
@@ -1174,7 +1174,7 @@
       CHANMODE 0
       GUID {4A1803F0-F3B1-4A26-B10D-F1AA1AB444EB}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -1192,7 +1192,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 66
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -1222,7 +1222,7 @@
       CHANMODE 0
       GUID {71B9EEDA-D0B2-4CB4-A957-F3E6CEF9B7EC}
       <SOURCE WAVE
-        FILE "Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
       >
     >
     <ITEM
@@ -1244,7 +1244,7 @@
       CHANMODE 0
       GUID {B0939B74-DD21-4047-BCAA-1FE0C0D9DF5E}
       <SOURCE WAVE
-        FILE "Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
       >
     >
     <ITEM
@@ -1266,7 +1266,7 @@
       CHANMODE 0
       GUID {4A7B056D-9EBC-4FB6-BC76-AFB3DCC40E2A}
       <SOURCE WAVE
-        FILE "Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
       >
     >
     <ITEM
@@ -1278,7 +1278,7 @@
       FADEIN 0 0 0 0 0 0 0
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {BA32BCA9-FB6E-4B54-BC4F-FE580FB66599}
       IID 54
       NAME "Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
@@ -1288,7 +1288,7 @@
       CHANMODE 0
       GUID {AB1FB3ED-6010-4B32-9769-46508CB7C0F8}
       <SOURCE WAVE
-        FILE "Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
       >
     >
     <ITEM
@@ -1300,7 +1300,7 @@
       FADEIN 0 0 0 0 0 0 0
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {367AE014-00C9-4331-A98C-A6185FF1130E}
       IID 54
       NAME "Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
@@ -1310,7 +1310,7 @@
       CHANMODE 0
       GUID {00A80D51-2EF8-4E43-8B44-982D600AD55B}
       <SOURCE WAVE
-        FILE "Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
       >
     >
   >
@@ -1358,7 +1358,7 @@
       CHANMODE 0
       GUID {87799AE3-2309-41CF-9FF4-6884EA5C4AA3}
       <SOURCE WAVE
-        FILE "Audio Files\Fire, Whoosh, Flame, Fireball, Fast x4 SND11948 S01 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Fire, Whoosh, Flame, Fireball, Fast x4 SND11948 S01 1.wav"
       >
     >
     <ITEM
@@ -1380,7 +1380,7 @@
       CHANMODE 0
       GUID {2E0DDA2A-844F-433A-ACD8-D9E076E6FAEE}
       <SOURCE WAVE
-        FILE "Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
       >
     >
     <ITEM
@@ -1402,7 +1402,7 @@
       CHANMODE 0
       GUID {9F8894A0-5E5C-4F56-9393-5892C9610BD1}
       <SOURCE WAVE
-        FILE "Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Air, Burst, Empty Tap, Faucet, No Water, Plumbing, Pressure, Air Burst 01 SND133626 S00 1.wav"
       >
     >
   >
@@ -1450,7 +1450,7 @@
       CHANMODE 0
       GUID {E676FB19-2BFA-4E75-AFC6-D897C8C4B9FD}
       <SOURCE WAVE
-        FILE "Audio Files\Metal, Impact, Designed Metal Impact, Aggressive, Resonating Springs 01 SND86401 S00 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Metal, Impact, Designed Metal Impact, Aggressive, Resonating Springs 01 SND86401 S00 1.wav"
       >
     >
     <ITEM
@@ -1472,7 +1472,7 @@
       CHANMODE 0
       GUID {26FCC002-33DA-42D4-8C78-BC182F98EDF4}
       <SOURCE WAVE
-        FILE "Audio Files\Metal, Impact, Designed Metal Impact, Aggressive, Resonating Springs 01 SND86401 S00 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Metal, Impact, Designed Metal Impact, Aggressive, Resonating Springs 01 SND86401 S00 1.wav"
       >
     >
     <ITEM
@@ -1494,7 +1494,7 @@
       CHANMODE 0
       GUID {02EAFDA8-0297-43C9-95A6-EE9630D782BE}
       <SOURCE WAVE
-        FILE "Audio Files\Metal, Impact, Designed Metal Impact, Aggressive, Resonating Springs 01 SND86401 S00 1.wav"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\Metal, Impact, Designed Metal Impact, Aggressive, Resonating Springs 01 SND86401 S00 1.wav"
       >
     >
   >
