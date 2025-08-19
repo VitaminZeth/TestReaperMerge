@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.42/win64" 1755569512
+<REAPER_PROJECT 0.1 "7.42/win64" 1755569305
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,7 +18,7 @@
   TIMEMODE 5 5 -1 30 0 -1 -1
   VIDEO_CONFIG 0 0 512
   PANMODE 5
-  CURSOR 391.28954647101205
+  CURSOR 231.06921146631362
   ZOOM 2.15952613 32 0
   VZOOMEX 5.38623142 72
   USE_REC_CFG 0
@@ -180,7 +180,7 @@
       CHANMODE 0
       GUID {1EBAD374-134B-4032-8DDB-37E6858BCFF1}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -202,7 +202,7 @@
       CHANMODE 0
       GUID {96DAE79B-E426-43B3-83C4-025EF346390D}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -224,7 +224,7 @@
       CHANMODE 0
       GUID {BFD3FA72-0EA6-4663-8FAE-6701BEB5E044}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -246,7 +246,7 @@
       CHANMODE 0
       GUID {B6BA33F1-2A9E-4A05-90BB-0F3D1E0BC05C}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -268,7 +268,7 @@
       CHANMODE 0
       GUID {C9FDC693-A37F-458D-AC4F-37F5708FF0D6}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -290,7 +290,7 @@
       CHANMODE 0
       GUID {50E4197D-B4EC-4B1A-A38F-6B11C6CD3933}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -312,7 +312,7 @@
       CHANMODE 0
       GUID {90D389F6-35F1-491C-A062-E0A5553D5C71}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
   >
@@ -376,7 +376,7 @@
       CHANMODE 0
       GUID {D4DF3A5E-0C1D-4378-BF79-25497614571A}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
   >
@@ -429,7 +429,7 @@
       CHANMODE 0
       GUID {B0860C7D-75D6-4B28-B447-0FAB0DED7437}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -451,7 +451,7 @@
       CHANMODE 0
       GUID {DD3A7613-6961-457F-81F2-D3859E13EC6A}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -473,7 +473,7 @@
       CHANMODE 0
       GUID {718EE895-DC23-4C05-8572-D2F3F0E32678}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -495,7 +495,7 @@
       CHANMODE 0
       GUID {98389BAC-88C3-4EE8-A9A2-C2CD44F5580D}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -517,7 +517,7 @@
       CHANMODE 0
       GUID {460BA88F-721B-495C-900B-EC0D1C477FCE}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -539,7 +539,7 @@
       CHANMODE 0
       GUID {57398395-E69B-44BE-AFFF-5316E3950556}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -614,7 +614,7 @@
       CHANMODE 0
       GUID {D3A2D2D7-6754-4797-9CD6-5ACEFA7E0683}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -636,7 +636,7 @@
       CHANMODE 0
       GUID {E52559C9-1ACB-48CB-8FA4-6650B37755D2}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -658,7 +658,7 @@
       CHANMODE 0
       GUID {0E592401-056D-429C-8533-FB960ED19EF9}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -680,7 +680,7 @@
       CHANMODE 0
       GUID {238F3A9D-05D1-4930-AABF-C33D1C22DB2F}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -702,7 +702,7 @@
       CHANMODE 0
       GUID {8A74BA78-BDB7-4895-AD74-4DEC5F3ABEE2}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -724,7 +724,7 @@
       CHANMODE 0
       GUID {CF43B1E2-CFA0-4A5B-819D-733F843F87E6}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -746,7 +746,7 @@
       CHANMODE 0
       GUID {193B295C-5DDA-43DD-816C-2971B614F6B8}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -768,7 +768,7 @@
       CHANMODE 0
       GUID {A3EC9864-DE69-49B2-827A-F343E8B0BFE0}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -790,7 +790,7 @@
       CHANMODE 0
       GUID {6262BC00-92A9-464E-995E-AD5021924D01}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -812,7 +812,7 @@
       CHANMODE 0
       GUID {996406F4-A553-4304-A4F8-E2310D36D287}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -860,7 +860,7 @@
       CHANMODE 0
       GUID {8365A901-8A7C-40ED-AAF4-B7115359B153}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -882,7 +882,7 @@
       CHANMODE 0
       GUID {8E61798D-4FBC-43A4-8275-4946AE7BFD1A}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -904,7 +904,7 @@
       CHANMODE 0
       GUID {B9FA2BAC-3096-4A4A-B8D1-29DB7EF9A706}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -926,7 +926,7 @@
       CHANMODE 0
       GUID {61156E85-5410-4745-8577-88CA0B8FDBC8}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -948,7 +948,7 @@
       CHANMODE 0
       GUID {B337EBFA-C3CF-4C08-BAEF-F0EEDAB49B9D}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -970,7 +970,7 @@
       CHANMODE 0
       GUID {21A1F4F2-9897-471B-8808-A1A9AFD4B51B}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -992,7 +992,7 @@
       CHANMODE 0
       GUID {1C17BB11-83F8-4A9C-9128-1B3F151786A8}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1014,7 +1014,7 @@
       CHANMODE 0
       GUID {BB1BF87C-7BFF-4DB2-A0D7-0A576D3C0CC1}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1036,7 +1036,7 @@
       CHANMODE 0
       GUID {7CBFE4B2-4201-417B-9594-0EF7A3076B96}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -1100,7 +1100,7 @@
       CHANMODE 0
       GUID {277C740E-FBD6-49ED-B694-47E029378E83}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1122,7 +1122,7 @@
       CHANMODE 0
       GUID {906B83A7-4AFB-4457-954A-771DC05733D7}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1144,7 +1144,7 @@
       CHANMODE 0
       GUID {260934A5-83D5-4E67-9D33-888DE1156734}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1166,7 +1166,7 @@
       CHANMODE 0
       GUID {37F39158-3961-415D-B6F0-BC43FB011B08}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1188,11 +1188,11 @@
       CHANMODE 0
       GUID {F9717B9C-E6DF-4827-BF30-A33561E57CC9}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
-      POSITION 319.51454090532343
+      POSITION 300.06582971978202
       SNAPOFFS 0
       LENGTH 5.09371007240372
       LOOP 0
@@ -1210,7 +1210,7 @@
       CHANMODE 0
       GUID {0A3A1D79-2C37-4F3D-96BF-AD8FCFC078F7}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1232,7 +1232,7 @@
       CHANMODE 0
       GUID {6F9C8615-904D-4D0C-A9F2-0C588520FC0E}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1254,7 +1254,7 @@
       CHANMODE 0
       GUID {F271E262-D4BC-40E0-A696-9A0E168FF9CC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -1302,7 +1302,7 @@
       CHANMODE 0
       GUID {4120782C-146B-42B8-A9E1-6DC790BDAF61}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1324,7 +1324,7 @@
       CHANMODE 0
       GUID {BBCAF8B4-D333-4A75-9D55-AA09C80085A5}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1346,7 +1346,7 @@
       CHANMODE 0
       GUID {ED4DA48D-8119-4E53-9455-E1D4B2A484BE}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1368,7 +1368,7 @@
       CHANMODE 0
       GUID {FBB80447-7A67-42A6-A3E2-9AB29A6303AC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1390,7 +1390,7 @@
       CHANMODE 0
       GUID {405EAC8B-A8B9-4844-933D-500AE0D3ED7A}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1412,7 +1412,7 @@
       CHANMODE 0
       GUID {7099F347-74D2-46FC-B4AE-6B1E3585972F}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1434,7 +1434,7 @@
       CHANMODE 0
       GUID {B3BC79FB-E639-43E0-86E1-FF536C672C2A}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1456,7 +1456,7 @@
       CHANMODE 0
       GUID {1DCA2DB3-E110-4992-A2A6-9EA3CE09F4CA}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1478,7 +1478,7 @@
       CHANMODE 0
       GUID {BF269F4B-91CE-4B5C-AFB5-5259BCF8FE08}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1500,7 +1500,7 @@
       CHANMODE 0
       GUID {5820FF46-FD5E-471D-89F8-C2F6153EF966}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -1564,7 +1564,7 @@
       CHANMODE 0
       GUID {CC9EF032-C88E-462D-B0D8-5449409D13EC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1586,7 +1586,7 @@
       CHANMODE 0
       GUID {E5C0950A-200C-4480-B9BD-442FA6E4F7AE}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1608,7 +1608,7 @@
       CHANMODE 0
       GUID {E203F8F6-ABA8-42A2-89B1-6631D1475AB3}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1630,7 +1630,7 @@
       CHANMODE 0
       GUID {EB02BCAE-37F5-4047-B7CA-394C21B64E5F}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1652,7 +1652,7 @@
       CHANMODE 0
       GUID {4A1803F0-F3B1-4A26-B10D-F1AA1AB444EB}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "C:\Users\Scouse\Music\ForkTesting\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
