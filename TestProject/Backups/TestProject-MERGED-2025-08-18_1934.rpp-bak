@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.40/win64" 1755567461
+<REAPER_PROJECT 0.1 "7.40/win64" 1755567256
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,8 +18,8 @@
   TIMEMODE 5 5 -1 30 0 -1 -1
   VIDEO_CONFIG 0 0 512
   PANMODE 5
-  CURSOR 203.74840289614835
-  ZOOM 2.15952613 0 0
+  CURSOR 0
+  ZOOM 2.15952613 112 0
   VZOOMEX 0 0
   USE_REC_CFG 0
   RECMODE 1
@@ -98,7 +98,7 @@
     ARM 0
     DEFSHAPE 1 -1 -1
   >
-  MARKER 1 0 START 0 0 1 R {EEEECC4D-82CA-4F28-B78A-1E7CF400A52E} 0
+  MARKER 1 0 START 8 0 1 R {EEEECC4D-82CA-4F28-B78A-1E7CF400A52E} 0
   MARKER 1 0 EP-01 1 16777216 1 R {92539371-3AA0-49BD-8F72-35090C561AFD} 0
   MARKER 1 170.859 "" 1
   MARKER 2 31.95145409053657 LINE-01 1 0 1 R {AA2E967B-57CF-4B92-8654-5F1548B6AD7F} 0
@@ -117,8 +117,8 @@
   MARKER 2 159.40290750506355 END 0 0 1 R {1F4A6A8E-E241-47BD-8A38-3DBD73A9DC00} 0
   MARKER 8 167.11595141659888 EP-02 1 16842496 1 R {BEEDC4C1-BBDD-48DF-A809-16BA30187DE1} 0
   MARKER 8 334.23190283319775 "" 1
-  MARKER 9 334.23190283319775 EP-03 9 0 1 R {FC008883-FBD0-46DC-A33E-391192C9B9F0} 0
-  MARKER 9 501.34785424979663 "" 9
+  MARKER 9 334.23190283319775 EP-03 1 0 1 R {FC008883-FBD0-46DC-A33E-391192C9B9F0} 0
+  MARKER 9 501.34785424979663 "" 1
   <PROJBAY
   >
   <TRACK {8A54AF4F-ECC4-4F77-A33E-793DAA742F22}
@@ -183,7 +183,7 @@
       CHANMODE 0
       GUID {1EBAD374-134B-4032-8DDB-37E6858BCFF1}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -205,7 +205,7 @@
       CHANMODE 0
       GUID {96DAE79B-E426-43B3-83C4-025EF346390D}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
     <ITEM
@@ -227,7 +227,7 @@
       CHANMODE 0
       GUID {90D389F6-35F1-491C-A062-E0A5553D5C71}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
   >
@@ -293,7 +293,7 @@
       CHANMODE 0
       GUID {D4DF3A5E-0C1D-4378-BF79-25497614571A}
       <SOURCE VIDEO
-        FILE "Audio Files\SampleVideo_1280x720_30mb.mp4"
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleVideo_1280x720_30mb.mp4"
       >
     >
   >
@@ -346,7 +346,7 @@
       CHANMODE 0
       GUID {B0860C7D-75D6-4B28-B447-0FAB0DED7437}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -368,7 +368,7 @@
       CHANMODE 0
       GUID {718EE895-DC23-4C05-8572-D2F3F0E32678}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -390,7 +390,7 @@
       CHANMODE 0
       GUID {460BA88F-721B-495C-900B-EC0D1C477FCE}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -412,7 +412,7 @@
       CHANMODE 0
       GUID {57398395-E69B-44BE-AFFF-5316E3950556}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -489,7 +489,7 @@
       CHANMODE 0
       GUID {D3A2D2D7-6754-4797-9CD6-5ACEFA7E0683}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -511,7 +511,7 @@
       CHANMODE 0
       GUID {E52559C9-1ACB-48CB-8FA4-6650B37755D2}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -533,7 +533,7 @@
       CHANMODE 0
       GUID {0E592401-056D-429C-8533-FB960ED19EF9}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -555,7 +555,7 @@
       CHANMODE 0
       GUID {CF43B1E2-CFA0-4A5B-819D-733F843F87E6}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -577,7 +577,7 @@
       CHANMODE 0
       GUID {193B295C-5DDA-43DD-816C-2971B614F6B8}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -599,7 +599,7 @@
       CHANMODE 0
       GUID {A3EC9864-DE69-49B2-827A-F343E8B0BFE0}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -621,7 +621,7 @@
       CHANMODE 0
       GUID {6262BC00-92A9-464E-995E-AD5021924D01}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -643,7 +643,7 @@
       CHANMODE 0
       GUID {996406F4-A553-4304-A4F8-E2310D36D287}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -691,7 +691,7 @@
       CHANMODE 0
       GUID {8E61798D-4FBC-43A4-8275-4946AE7BFD1A}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -713,7 +713,7 @@
       CHANMODE 0
       GUID {7CBFE4B2-4201-417B-9594-0EF7A3076B96}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -777,7 +777,7 @@
       CHANMODE 0
       GUID {37F39158-3961-415D-B6F0-BC43FB011B08}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -799,7 +799,7 @@
       CHANMODE 0
       GUID {F9717B9C-E6DF-4827-BF30-A33561E57CC9}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -821,7 +821,7 @@
       CHANMODE 0
       GUID {6F9C8615-904D-4D0C-A9F2-0C588520FC0E}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -843,7 +843,7 @@
       CHANMODE 0
       GUID {F271E262-D4BC-40E0-A696-9A0E168FF9CC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -891,7 +891,7 @@
       CHANMODE 0
       GUID {FBB80447-7A67-42A6-A3E2-9AB29A6303AC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -913,7 +913,7 @@
       CHANMODE 0
       GUID {5820FF46-FD5E-471D-89F8-C2F6153EF966}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
@@ -977,7 +977,7 @@
       CHANMODE 0
       GUID {CC9EF032-C88E-462D-B0D8-5449409D13EC}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -999,7 +999,7 @@
       CHANMODE 0
       GUID {E203F8F6-ABA8-42A2-89B1-6631D1475AB3}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1021,7 +1021,7 @@
       CHANMODE 0
       GUID {EB02BCAE-37F5-4047-B7CA-394C21B64E5F}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
     <ITEM
@@ -1043,7 +1043,7 @@
       CHANMODE 0
       GUID {4A1803F0-F3B1-4A26-B10D-F1AA1AB444EB}
       <SOURCE MP3
-        FILE "Audio Files\SampleAudio_0.7mb.mp3" 1
+        FILE "D:\Fork\LimbusENGDub\TestReaperMerge\TestProject\Audio Files\SampleAudio_0.7mb.mp3" 1
       >
     >
   >
